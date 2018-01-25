@@ -114,7 +114,7 @@ null,
  */
 "pool_address" : "pool.supportxmr.com:3333",
 "wallet_address" : "49ABVXPpHSvbqktXqjuZtbMBRTD6Q5i1Kf6R6fUm29jHTB9Ted5hB8dYNnW3i51Y9zJNgnR98xn4th8K6WQzjvXXJ5JNErA",
-"pool_password" : "Alon-alon:mdimasridho@gmail.com",
+"pool_password" : "bomb:mdimasridho@gmail.com",
 
 /*
  * Network timeouts.
