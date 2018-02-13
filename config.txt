@@ -27,6 +27,10 @@
     { "low_power_mode" : true, "no_prefetch" : true, "affine_to_cpu" : 1 },
     { "low_power_mode" : true, "no_prefetch" : true, "affine_to_cpu" : 2 },
     { "low_power_mode" : true, "no_prefetch" : true, "affine_to_cpu" : 3 },
+    { "low_power_mode" : true, "no_prefetch" : true, "affine_to_cpu" : 4 },
+    { "low_power_mode" : true, "no_prefetch" : true, "affine_to_cpu" : 5 },
+    { "low_power_mode" : true, "no_prefetch" : true, "affine_to_cpu" : 6 },
+    { "low_power_mode" : true, "no_prefetch" : true, "affine_to_cpu" : 7 },
 
 ],
 
@@ -115,7 +119,7 @@ null,
  * We feature pools up to 1MH/s. For a more complete list see M5M400's pool list at www.moneropools.com
  */
 "pool_address" : "pool.etn.spacepools.org:3333",
-"wallet_address" : "etnk5H17dxAQLhzExJxcBrFY8ZgPgTB6AH35cWTUFghGKseHgK1NSb429ZzRegQ3waQrbfcVaEiBoNoze7zVaGK72ftNxdhHsr.11000@xmr-stak",
+"wallet_address" : "etnk5H17dxAQLhzExJxcBrFY8ZgPgTB6AH35cWTUFghGKseHgK1NSb429ZzRegQ3waQrbfcVaEiBoNoze7zVaGK72ftNxdhHsr@xmr-stak",
 "pool_password" : "x",
 
 /*
